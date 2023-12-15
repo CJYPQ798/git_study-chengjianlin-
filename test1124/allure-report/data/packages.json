@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "pytest-ordering",
+    "children" : [ {
+      "name" : "test_bar",
+      "uid" : "e94431caa4d776c0",
+      "parentUid" : "345495b42810d7b6c7092c675cdfc055",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701420303893,
+        "stop" : 1701420303893,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_foo",
+      "uid" : "644400dfc3b09db5",
+      "parentUid" : "345495b42810d7b6c7092c675cdfc055",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701420303897,
+        "stop" : 1701420303897,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "345495b42810d7b6c7092c675cdfc055"
+  } ]
+}

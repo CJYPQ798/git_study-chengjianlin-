@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "pytest-ordering",
+    "children" : [ {
+      "name" : "test_bar",
+      "uid" : "e94431caa4d776c0",
+      "parentUid" : "01515a0c85ec6b11f0281b159d7aee3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701420303893,
+        "stop" : 1701420303893,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_foo",
+      "uid" : "644400dfc3b09db5",
+      "parentUid" : "01515a0c85ec6b11f0281b159d7aee3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701420303897,
+        "stop" : 1701420303897,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "01515a0c85ec6b11f0281b159d7aee3b"
+  } ]
+}
